@@ -36,7 +36,6 @@ pip install pandas numpy matplotlib seaborn
 ## Insights
 - Manhattan has the highest density and prices for Airbnb listings  
 - Private rooms are the most common room type overall  
-- Prices vary significantly by borough and neighborhood  
 - Listings with higher availability tend to be moderately priced  
   
 
